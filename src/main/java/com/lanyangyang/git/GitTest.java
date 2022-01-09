@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("合并后你才能看见我hot-fix");
         System.out.println("master合并冲突");
         System.out.println("hot-fix 合并冲突");
+        System.out.println("pull 成功");
     }
 }
