@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("哈哈111");
         System.out.println("哈哈222");
         System.out.println("合并后你才能看见我hot-fix");
+        System.out.println("hot-fix 合并冲突");
     }
 }
