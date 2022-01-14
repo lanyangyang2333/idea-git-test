@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix 合并冲突");
         System.out.println("push 成功  我是后面添加的");
         System.out.println("pull 成功");
+        System.out.println("push to gitlab 成功");
     }
 }
